@@ -38,7 +38,7 @@ body{
 }
 @keyframes car{
 	0%{
-		left:-20%;
+		left:0%;
 	}
 	100%{
 		left:100%;
@@ -46,7 +46,7 @@ body{
 }
 @keyframes car2{
 	0%{
-		right:-20%;
+		right:0%;
 	}
 	100%{
 		right:100%;
