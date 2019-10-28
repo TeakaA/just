@@ -24,6 +24,7 @@ body{
     background-repeat: no-repeat;
     bottom: 20px;
     animation: car  linear 3s infinite 1s;
+    background-position: center;
 }
 .car2{
 	position:absolute;
@@ -35,6 +36,7 @@ body{
     background-repeat: no-repeat;
     bottom: 5px;
     animation: car2 linear 3s infinite 1s;
+    background-position: center;
 }
 @keyframes car{
 	0%{
